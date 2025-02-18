@@ -1,0 +1,3 @@
+hello, this is the text file.
+it contains multiple lines of text.
+Cprogramme is fun! 
